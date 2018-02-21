@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string name="textoLista">Generar Lista</string>
+    <string name="textoGrilla">Generar Grilla</string>
+</resources>
